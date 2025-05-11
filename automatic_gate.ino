@@ -1,3 +1,4 @@
+//Author: Mugisha Samuella
 #include <Servo.h>
 
 // Pin definitions
